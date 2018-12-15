@@ -48,13 +48,6 @@
     <Compile Include="Exceptions\ApiException.cs" />
     <Compile Include="Exceptions\BaseException.cs" />
     <Compile Include="Exceptions\HttpException.cs" />
-    <Compile Include="Json\JsonArray.cs" />
-    <Compile Include="Json\JsonBoolean.cs" />
-    <Compile Include="Json\JsonNullable.cs" />
-    <Compile Include="Json\JsonNumber.cs" />
-    <Compile Include="Json\JsonObject.cs" />
-    <Compile Include="Json\JsonString.cs" />
-    <Compile Include="Json\Parser.cs" />
     <Compile Include="KavenegarApi.cs" />
     <Compile Include="Models\AccountConfigResult.cs" />
     <Compile Include="Models\AccountInfoResult.cs" />
